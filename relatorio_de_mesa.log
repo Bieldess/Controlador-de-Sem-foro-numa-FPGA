@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.26)  16 MAR 2022 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.26)  16 MAR 2022 21:29
 entering extended mode
 **"c:/Users/santa/OneDrive/Área de Trabalho/SENAI - ENG ELETRICA/3 SEMESTRE/Sistemas Embarcados/PONG/Artigo-LATEX/Article_PONG/Controlador-de-Sem-foro-numa-FPGA/relatorio_de_mesa.tex"
 (c:/Users/santa/OneDrive/Área de Trabalho/SENAI - ENG ELETRICA/3 SEMESTRE/Sistemas Embarcados/PONG/Artigo-LATEX/Article_PONG/Controlador-de-Sem-foro-numa-FPGA/relatorio_de_mesa.tex
@@ -329,19 +329,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
-
-c:/Users/santa/OneDrive/Área de Trabalho/SENAI - ENG ELETRICA/3 SEMESTRE/Sistemas Embarcados/PONG/Artigo-LATEX/Article_PONG/Controlador-de-Sem-foro-numa-FPGA/relatorio_de_mesa.tex:17: LaTeX Error: Environment Ideias undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \begin{Ideias}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 )
 ! Emergency stop.
 <*> ...e-Sem-foro-numa-FPGA/relatorio_de_mesa.tex"
